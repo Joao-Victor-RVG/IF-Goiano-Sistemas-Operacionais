@@ -1,0 +1,1680 @@
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 322, CP: 323, Estado: BLOQUEADO, NES: 1, N_CPU: 1
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 4, CP: 5, Estado: BLOQUEADO, NES: 1, N_CPU: 1
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 176, CP: 177, Estado: BLOQUEADO, NES: 1, N_CPU: 1
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 129, CP: 130, Estado: BLOQUEADO, NES: 1, N_CPU: 1
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 70, CP: 71, Estado: BLOQUEADO, NES: 1, N_CPU: 1
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 91, CP: 92, Estado: BLOQUEADO, NES: 1, N_CPU: 1
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 96, CP: 97, Estado: BLOQUEADO, NES: 1, N_CPU: 1
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 131, CP: 132, Estado: BLOQUEADO, NES: 1, N_CPU: 1
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 12, CP: 13, Estado: BLOQUEADO, NES: 1, N_CPU: 1
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 18, CP: 19, Estado: BLOQUEADO, NES: 1, N_CPU: 1
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 612, CP: 613, Estado: BLOQUEADO, NES: 2, N_CPU: 2
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 10, CP: 11, Estado: BLOQUEADO, NES: 2, N_CPU: 2
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 272, CP: 273, Estado: BLOQUEADO, NES: 2, N_CPU: 2
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 235, CP: 236, Estado: BLOQUEADO, NES: 2, N_CPU: 2
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 179, CP: 180, Estado: BLOQUEADO, NES: 2, N_CPU: 2
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 163, CP: 164, Estado: BLOQUEADO, NES: 2, N_CPU: 2
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 117, CP: 118, Estado: BLOQUEADO, NES: 2, N_CPU: 2
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 139, CP: 140, Estado: BLOQUEADO, NES: 2, N_CPU: 2
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 28, CP: 29, Estado: BLOQUEADO, NES: 2, N_CPU: 2
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 153, CP: 154, Estado: BLOQUEADO, NES: 2, N_CPU: 2
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 738, CP: 739, Estado: BLOQUEADO, NES: 3, N_CPU: 3
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 337, CP: 338, Estado: BLOQUEADO, NES: 3, N_CPU: 3
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 311, CP: 312, Estado: BLOQUEADO, NES: 3, N_CPU: 3
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 266, CP: 267, Estado: BLOQUEADO, NES: 3, N_CPU: 3
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 233, CP: 234, Estado: BLOQUEADO, NES: 3, N_CPU: 3
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 636, CP: 637, Estado: BLOQUEADO, NES: 3, N_CPU: 3
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 278, CP: 279, Estado: BLOQUEADO, NES: 3, N_CPU: 3
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 220, CP: 221, Estado: BLOQUEADO, NES: 3, N_CPU: 3
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 94, CP: 95, Estado: BLOQUEADO, NES: 3, N_CPU: 3
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 183, CP: 184, Estado: BLOQUEADO, NES: 3, N_CPU: 3
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 741, CP: 742, Estado: BLOQUEADO, NES: 4, N_CPU: 4
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 503, CP: 504, Estado: BLOQUEADO, NES: 4, N_CPU: 4
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 516, CP: 517, Estado: BLOQUEADO, NES: 4, N_CPU: 4
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 266, CP: 267, Estado: BLOQUEADO, NES: 4, N_CPU: 4
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 321, CP: 322, Estado: BLOQUEADO, NES: 4, N_CPU: 4
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 637, CP: 638, Estado: BLOQUEADO, NES: 4, N_CPU: 4
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 395, CP: 396, Estado: BLOQUEADO, NES: 4, N_CPU: 4
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 466, CP: 467, Estado: BLOQUEADO, NES: 4, N_CPU: 4
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 129, CP: 130, Estado: BLOQUEADO, NES: 4, N_CPU: 4
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 212, CP: 213, Estado: BLOQUEADO, NES: 4, N_CPU: 4
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 820, CP: 821, Estado: BLOQUEADO, NES: 5, N_CPU: 5
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 539, CP: 540, Estado: BLOQUEADO, NES: 5, N_CPU: 5
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 518, CP: 519, Estado: BLOQUEADO, NES: 5, N_CPU: 5
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 356, CP: 357, Estado: BLOQUEADO, NES: 5, N_CPU: 5
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 439, CP: 440, Estado: BLOQUEADO, NES: 5, N_CPU: 5
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 721, CP: 722, Estado: BLOQUEADO, NES: 5, N_CPU: 5
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 419, CP: 420, Estado: BLOQUEADO, NES: 5, N_CPU: 5
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 499, CP: 500, Estado: BLOQUEADO, NES: 5, N_CPU: 5
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 382, CP: 383, Estado: BLOQUEADO, NES: 5, N_CPU: 5
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 445, CP: 446, Estado: BLOQUEADO, NES: 5, N_CPU: 5
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 1111, CP: 1112, Estado: BLOQUEADO, NES: 6, N_CPU: 6
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 570, CP: 571, Estado: BLOQUEADO, NES: 6, N_CPU: 6
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 531, CP: 532, Estado: BLOQUEADO, NES: 6, N_CPU: 6
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 398, CP: 399, Estado: BLOQUEADO, NES: 6, N_CPU: 6
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 653, CP: 654, Estado: BLOQUEADO, NES: 6, N_CPU: 6
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 818, CP: 819, Estado: BLOQUEADO, NES: 6, N_CPU: 6
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 635, CP: 636, Estado: BLOQUEADO, NES: 6, N_CPU: 6
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 794, CP: 795, Estado: BLOQUEADO, NES: 6, N_CPU: 6
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 423, CP: 424, Estado: BLOQUEADO, NES: 6, N_CPU: 6
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 567, CP: 568, Estado: BLOQUEADO, NES: 6, N_CPU: 6
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 1148, CP: 1149, Estado: BLOQUEADO, NES: 7, N_CPU: 7
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 825, CP: 826, Estado: BLOQUEADO, NES: 7, N_CPU: 7
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 770, CP: 771, Estado: BLOQUEADO, NES: 7, N_CPU: 7
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 399, CP: 400, Estado: BLOQUEADO, NES: 7, N_CPU: 7
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 701, CP: 702, Estado: BLOQUEADO, NES: 7, N_CPU: 7
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 846, CP: 847, Estado: BLOQUEADO, NES: 7, N_CPU: 7
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 748, CP: 749, Estado: BLOQUEADO, NES: 7, N_CPU: 7
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 811, CP: 812, Estado: BLOQUEADO, NES: 7, N_CPU: 7
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 493, CP: 494, Estado: BLOQUEADO, NES: 7, N_CPU: 7
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 772, CP: 773, Estado: BLOQUEADO, NES: 7, N_CPU: 7
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 1177, CP: 1178, Estado: BLOQUEADO, NES: 8, N_CPU: 8
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 870, CP: 871, Estado: BLOQUEADO, NES: 8, N_CPU: 8
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 988, CP: 989, Estado: BLOQUEADO, NES: 8, N_CPU: 8
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 448, CP: 449, Estado: BLOQUEADO, NES: 8, N_CPU: 8
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 877, CP: 878, Estado: BLOQUEADO, NES: 8, N_CPU: 8
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 855, CP: 856, Estado: BLOQUEADO, NES: 8, N_CPU: 8
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 790, CP: 791, Estado: BLOQUEADO, NES: 8, N_CPU: 8
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 1010, CP: 1011, Estado: BLOQUEADO, NES: 8, N_CPU: 8
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 618, CP: 619, Estado: BLOQUEADO, NES: 8, N_CPU: 8
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 886, CP: 887, Estado: BLOQUEADO, NES: 8, N_CPU: 8
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 1380, CP: 1381, Estado: BLOQUEADO, NES: 9, N_CPU: 9
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 898, CP: 899, Estado: BLOQUEADO, NES: 9, N_CPU: 9
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 1026, CP: 1027, Estado: BLOQUEADO, NES: 9, N_CPU: 9
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 486, CP: 487, Estado: BLOQUEADO, NES: 9, N_CPU: 9
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 896, CP: 897, Estado: BLOQUEADO, NES: 9, N_CPU: 9
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 1021, CP: 1022, Estado: BLOQUEADO, NES: 9, N_CPU: 9
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 810, CP: 811, Estado: BLOQUEADO, NES: 9, N_CPU: 9
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 1031, CP: 1032, Estado: BLOQUEADO, NES: 9, N_CPU: 9
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 624, CP: 625, Estado: BLOQUEADO, NES: 9, N_CPU: 9
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 1102, CP: 1103, Estado: BLOQUEADO, NES: 9, N_CPU: 9
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 1504, CP: 1505, Estado: BLOQUEADO, NES: 10, N_CPU: 10
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 909, CP: 910, Estado: BLOQUEADO, NES: 10, N_CPU: 10
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 1040, CP: 1041, Estado: BLOQUEADO, NES: 10, N_CPU: 10
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 924, CP: 925, Estado: BLOQUEADO, NES: 10, N_CPU: 10
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 1072, CP: 1073, Estado: BLOQUEADO, NES: 10, N_CPU: 10
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 1274, CP: 1275, Estado: BLOQUEADO, NES: 10, N_CPU: 10
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 962, CP: 963, Estado: BLOQUEADO, NES: 10, N_CPU: 10
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 1070, CP: 1071, Estado: BLOQUEADO, NES: 10, N_CPU: 10
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 839, CP: 840, Estado: BLOQUEADO, NES: 10, N_CPU: 10
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 1210, CP: 1211, Estado: BLOQUEADO, NES: 10, N_CPU: 10
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 1847, CP: 1848, Estado: BLOQUEADO, NES: 11, N_CPU: 11
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 922, CP: 923, Estado: BLOQUEADO, NES: 11, N_CPU: 11
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 1096, CP: 1097, Estado: BLOQUEADO, NES: 11, N_CPU: 11
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 1027, CP: 1028, Estado: BLOQUEADO, NES: 11, N_CPU: 11
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 1091, CP: 1092, Estado: BLOQUEADO, NES: 11, N_CPU: 11
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 1331, CP: 1332, Estado: BLOQUEADO, NES: 11, N_CPU: 11
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 1081, CP: 1082, Estado: BLOQUEADO, NES: 11, N_CPU: 11
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 1071, CP: 1072, Estado: BLOQUEADO, NES: 11, N_CPU: 11
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 860, CP: 861, Estado: BLOQUEADO, NES: 11, N_CPU: 11
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 1288, CP: 1289, Estado: BLOQUEADO, NES: 11, N_CPU: 11
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 2008, CP: 2009, Estado: BLOQUEADO, NES: 12, N_CPU: 12
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 945, CP: 946, Estado: BLOQUEADO, NES: 12, N_CPU: 12
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 1304, CP: 1305, Estado: BLOQUEADO, NES: 12, N_CPU: 12
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 1169, CP: 1170, Estado: BLOQUEADO, NES: 12, N_CPU: 12
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 1216, CP: 1217, Estado: BLOQUEADO, NES: 12, N_CPU: 12
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 1563, CP: 1564, Estado: BLOQUEADO, NES: 12, N_CPU: 12
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 1119, CP: 1120, Estado: BLOQUEADO, NES: 12, N_CPU: 12
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 1141, CP: 1142, Estado: BLOQUEADO, NES: 12, N_CPU: 12
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 899, CP: 900, Estado: BLOQUEADO, NES: 12, N_CPU: 12
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 1314, CP: 1315, Estado: BLOQUEADO, NES: 12, N_CPU: 12
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 2070, CP: 2071, Estado: BLOQUEADO, NES: 13, N_CPU: 13
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 955, CP: 956, Estado: BLOQUEADO, NES: 13, N_CPU: 13
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 1334, CP: 1335, Estado: BLOQUEADO, NES: 13, N_CPU: 13
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 1304, CP: 1305, Estado: BLOQUEADO, NES: 13, N_CPU: 13
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 1295, CP: 1296, Estado: BLOQUEADO, NES: 13, N_CPU: 13
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 1645, CP: 1646, Estado: BLOQUEADO, NES: 13, N_CPU: 13
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 1195, CP: 1196, Estado: BLOQUEADO, NES: 13, N_CPU: 13
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 1169, CP: 1170, Estado: BLOQUEADO, NES: 13, N_CPU: 13
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 931, CP: 932, Estado: BLOQUEADO, NES: 13, N_CPU: 13
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 1602, CP: 1603, Estado: BLOQUEADO, NES: 13, N_CPU: 13
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 2373, CP: 2374, Estado: BLOQUEADO, NES: 14, N_CPU: 14
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 1059, CP: 1060, Estado: BLOQUEADO, NES: 14, N_CPU: 14
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 1403, CP: 1404, Estado: BLOQUEADO, NES: 14, N_CPU: 14
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 1631, CP: 1632, Estado: BLOQUEADO, NES: 14, N_CPU: 14
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 1406, CP: 1407, Estado: BLOQUEADO, NES: 14, N_CPU: 14
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 1706, CP: 1707, Estado: BLOQUEADO, NES: 14, N_CPU: 14
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 1241, CP: 1242, Estado: BLOQUEADO, NES: 14, N_CPU: 14
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 1336, CP: 1337, Estado: BLOQUEADO, NES: 14, N_CPU: 14
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 964, CP: 965, Estado: BLOQUEADO, NES: 14, N_CPU: 14
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 1636, CP: 1637, Estado: BLOQUEADO, NES: 14, N_CPU: 14
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 2502, CP: 2503, Estado: BLOQUEADO, NES: 15, N_CPU: 15
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 1074, CP: 1075, Estado: BLOQUEADO, NES: 15, N_CPU: 15
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 1461, CP: 1462, Estado: BLOQUEADO, NES: 15, N_CPU: 15
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 1866, CP: 1867, Estado: BLOQUEADO, NES: 15, N_CPU: 15
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 1631, CP: 1632, Estado: BLOQUEADO, NES: 15, N_CPU: 15
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 1771, CP: 1772, Estado: BLOQUEADO, NES: 15, N_CPU: 15
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 1377, CP: 1378, Estado: BLOQUEADO, NES: 15, N_CPU: 15
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 1436, CP: 1437, Estado: BLOQUEADO, NES: 15, N_CPU: 15
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 1115, CP: 1116, Estado: BLOQUEADO, NES: 15, N_CPU: 15
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 1701, CP: 1702, Estado: BLOQUEADO, NES: 15, N_CPU: 15
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 2597, CP: 2598, Estado: BLOQUEADO, NES: 16, N_CPU: 16
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 1462, CP: 1463, Estado: BLOQUEADO, NES: 16, N_CPU: 16
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 1495, CP: 1496, Estado: BLOQUEADO, NES: 16, N_CPU: 16
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 1905, CP: 1906, Estado: BLOQUEADO, NES: 16, N_CPU: 16
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 1654, CP: 1655, Estado: BLOQUEADO, NES: 16, N_CPU: 16
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 1820, CP: 1821, Estado: BLOQUEADO, NES: 16, N_CPU: 16
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 1505, CP: 1506, Estado: BLOQUEADO, NES: 16, N_CPU: 16
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 1545, CP: 1546, Estado: BLOQUEADO, NES: 16, N_CPU: 16
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 1215, CP: 1216, Estado: BLOQUEADO, NES: 16, N_CPU: 16
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 1749, CP: 1750, Estado: BLOQUEADO, NES: 16, N_CPU: 16
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 2716, CP: 2717, Estado: BLOQUEADO, NES: 17, N_CPU: 17
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 1675, CP: 1676, Estado: BLOQUEADO, NES: 17, N_CPU: 17
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 1545, CP: 1546, Estado: BLOQUEADO, NES: 17, N_CPU: 17
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 1935, CP: 1936, Estado: BLOQUEADO, NES: 17, N_CPU: 17
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 1691, CP: 1692, Estado: BLOQUEADO, NES: 17, N_CPU: 17
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 1837, CP: 1838, Estado: BLOQUEADO, NES: 17, N_CPU: 17
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 1614, CP: 1615, Estado: BLOQUEADO, NES: 17, N_CPU: 17
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 1560, CP: 1561, Estado: BLOQUEADO, NES: 17, N_CPU: 17
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 1343, CP: 1344, Estado: BLOQUEADO, NES: 17, N_CPU: 17
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 1773, CP: 1774, Estado: BLOQUEADO, NES: 17, N_CPU: 17
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 2801, CP: 2802, Estado: BLOQUEADO, NES: 18, N_CPU: 18
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 1755, CP: 1756, Estado: BLOQUEADO, NES: 18, N_CPU: 18
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 1743, CP: 1744, Estado: BLOQUEADO, NES: 18, N_CPU: 18
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 2104, CP: 2105, Estado: BLOQUEADO, NES: 18, N_CPU: 18
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 1718, CP: 1719, Estado: BLOQUEADO, NES: 18, N_CPU: 18
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 1868, CP: 1869, Estado: BLOQUEADO, NES: 18, N_CPU: 18
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 1854, CP: 1855, Estado: BLOQUEADO, NES: 18, N_CPU: 18
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 1564, CP: 1565, Estado: BLOQUEADO, NES: 18, N_CPU: 18
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 1386, CP: 1387, Estado: BLOQUEADO, NES: 18, N_CPU: 18
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 1915, CP: 1916, Estado: BLOQUEADO, NES: 18, N_CPU: 18
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 2810, CP: 2811, Estado: BLOQUEADO, NES: 19, N_CPU: 19
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 1823, CP: 1824, Estado: BLOQUEADO, NES: 19, N_CPU: 19
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 1758, CP: 1759, Estado: BLOQUEADO, NES: 19, N_CPU: 19
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 2194, CP: 2195, Estado: BLOQUEADO, NES: 19, N_CPU: 19
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 1729, CP: 1730, Estado: BLOQUEADO, NES: 19, N_CPU: 19
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 1897, CP: 1898, Estado: BLOQUEADO, NES: 19, N_CPU: 19
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 1912, CP: 1913, Estado: BLOQUEADO, NES: 19, N_CPU: 19
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 1569, CP: 1570, Estado: BLOQUEADO, NES: 19, N_CPU: 19
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 1475, CP: 1476, Estado: BLOQUEADO, NES: 19, N_CPU: 19
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 1917, CP: 1918, Estado: BLOQUEADO, NES: 19, N_CPU: 19
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 2821, CP: 2822, Estado: BLOQUEADO, NES: 20, N_CPU: 20
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 1959, CP: 1960, Estado: BLOQUEADO, NES: 20, N_CPU: 20
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 1766, CP: 1767, Estado: BLOQUEADO, NES: 20, N_CPU: 20
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 2427, CP: 2428, Estado: BLOQUEADO, NES: 20, N_CPU: 20
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 1740, CP: 1741, Estado: BLOQUEADO, NES: 20, N_CPU: 20
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 1898, CP: 1899, Estado: BLOQUEADO, NES: 20, N_CPU: 20
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 1913, CP: 1914, Estado: BLOQUEADO, NES: 20, N_CPU: 20
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 1602, CP: 1603, Estado: BLOQUEADO, NES: 20, N_CPU: 20
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 1631, CP: 1632, Estado: BLOQUEADO, NES: 20, N_CPU: 20
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 1990, CP: 1991, Estado: BLOQUEADO, NES: 20, N_CPU: 20
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 2912, CP: 2913, Estado: BLOQUEADO, NES: 21, N_CPU: 21
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 2029, CP: 2030, Estado: BLOQUEADO, NES: 21, N_CPU: 21
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 2106, CP: 2107, Estado: BLOQUEADO, NES: 21, N_CPU: 21
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 2476, CP: 2477, Estado: BLOQUEADO, NES: 21, N_CPU: 21
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 1913, CP: 1914, Estado: BLOQUEADO, NES: 21, N_CPU: 21
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 1988, CP: 1989, Estado: BLOQUEADO, NES: 21, N_CPU: 21
+
+Processo 6 mudou para estado BLOQUEADO:
+PID: 6, TP: 1987, CP: 1988, Estado: BLOQUEADO, NES: 21, N_CPU: 21
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 1606, CP: 1607, Estado: BLOQUEADO, NES: 21, N_CPU: 21
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 1664, CP: 1665, Estado: BLOQUEADO, NES: 21, N_CPU: 21
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 2006, CP: 2007, Estado: BLOQUEADO, NES: 21, N_CPU: 21
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 2977, CP: 2978, Estado: BLOQUEADO, NES: 22, N_CPU: 22
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 2128, CP: 2129, Estado: BLOQUEADO, NES: 22, N_CPU: 22
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 2296, CP: 2297, Estado: BLOQUEADO, NES: 22, N_CPU: 22
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 2521, CP: 2522, Estado: BLOQUEADO, NES: 22, N_CPU: 22
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 1951, CP: 1952, Estado: BLOQUEADO, NES: 22, N_CPU: 22
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 2278, CP: 2279, Estado: BLOQUEADO, NES: 22, N_CPU: 22
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 1628, CP: 1629, Estado: BLOQUEADO, NES: 22, N_CPU: 22
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 1702, CP: 1703, Estado: BLOQUEADO, NES: 22, N_CPU: 22
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 2097, CP: 2098, Estado: BLOQUEADO, NES: 22, N_CPU: 22
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 2982, CP: 2983, Estado: BLOQUEADO, NES: 23, N_CPU: 23
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 2134, CP: 2135, Estado: BLOQUEADO, NES: 23, N_CPU: 23
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 2376, CP: 2377, Estado: BLOQUEADO, NES: 23, N_CPU: 23
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 2609, CP: 2610, Estado: BLOQUEADO, NES: 23, N_CPU: 23
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 2149, CP: 2150, Estado: BLOQUEADO, NES: 23, N_CPU: 23
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 2486, CP: 2487, Estado: BLOQUEADO, NES: 23, N_CPU: 23
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 1672, CP: 1673, Estado: BLOQUEADO, NES: 23, N_CPU: 23
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 1736, CP: 1737, Estado: BLOQUEADO, NES: 23, N_CPU: 23
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 2155, CP: 2156, Estado: BLOQUEADO, NES: 23, N_CPU: 23
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 2987, CP: 2988, Estado: BLOQUEADO, NES: 24, N_CPU: 24
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 2193, CP: 2194, Estado: BLOQUEADO, NES: 24, N_CPU: 24
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 2398, CP: 2399, Estado: BLOQUEADO, NES: 24, N_CPU: 24
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 2977, CP: 2978, Estado: BLOQUEADO, NES: 24, N_CPU: 24
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 2309, CP: 2310, Estado: BLOQUEADO, NES: 24, N_CPU: 24
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 2523, CP: 2524, Estado: BLOQUEADO, NES: 24, N_CPU: 24
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 1734, CP: 1735, Estado: BLOQUEADO, NES: 24, N_CPU: 24
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 1737, CP: 1738, Estado: BLOQUEADO, NES: 24, N_CPU: 24
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 2360, CP: 2361, Estado: BLOQUEADO, NES: 24, N_CPU: 24
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 3005, CP: 3006, Estado: BLOQUEADO, NES: 25, N_CPU: 25
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 2205, CP: 2206, Estado: BLOQUEADO, NES: 25, N_CPU: 25
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 2445, CP: 2446, Estado: BLOQUEADO, NES: 25, N_CPU: 25
+
+Processo 3 mudou para estado BLOQUEADO:
+PID: 3, TP: 2979, CP: 2980, Estado: BLOQUEADO, NES: 25, N_CPU: 25
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 2416, CP: 2417, Estado: BLOQUEADO, NES: 25, N_CPU: 25
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 2552, CP: 2553, Estado: BLOQUEADO, NES: 25, N_CPU: 25
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 2131, CP: 2132, Estado: BLOQUEADO, NES: 25, N_CPU: 25
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 2014, CP: 2015, Estado: BLOQUEADO, NES: 25, N_CPU: 25
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 2579, CP: 2580, Estado: BLOQUEADO, NES: 25, N_CPU: 25
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 3005, CP: 3006, Estado: BLOQUEADO, NES: 26, N_CPU: 26
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 2683, CP: 2684, Estado: BLOQUEADO, NES: 26, N_CPU: 26
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 2479, CP: 2480, Estado: BLOQUEADO, NES: 26, N_CPU: 26
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 2739, CP: 2740, Estado: BLOQUEADO, NES: 26, N_CPU: 26
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 2588, CP: 2589, Estado: BLOQUEADO, NES: 26, N_CPU: 26
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 2197, CP: 2198, Estado: BLOQUEADO, NES: 26, N_CPU: 26
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 2278, CP: 2279, Estado: BLOQUEADO, NES: 26, N_CPU: 26
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 2706, CP: 2707, Estado: BLOQUEADO, NES: 26, N_CPU: 26
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 3048, CP: 3049, Estado: BLOQUEADO, NES: 27, N_CPU: 27
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 2798, CP: 2799, Estado: BLOQUEADO, NES: 27, N_CPU: 27
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 2606, CP: 2607, Estado: BLOQUEADO, NES: 27, N_CPU: 27
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 2771, CP: 2772, Estado: BLOQUEADO, NES: 27, N_CPU: 27
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 2608, CP: 2609, Estado: BLOQUEADO, NES: 27, N_CPU: 27
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 2216, CP: 2217, Estado: BLOQUEADO, NES: 27, N_CPU: 27
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 2435, CP: 2436, Estado: BLOQUEADO, NES: 27, N_CPU: 27
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 2719, CP: 2720, Estado: BLOQUEADO, NES: 27, N_CPU: 27
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 3193, CP: 3194, Estado: BLOQUEADO, NES: 28, N_CPU: 28
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 2815, CP: 2816, Estado: BLOQUEADO, NES: 28, N_CPU: 28
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 2667, CP: 2668, Estado: BLOQUEADO, NES: 28, N_CPU: 28
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 2915, CP: 2916, Estado: BLOQUEADO, NES: 28, N_CPU: 28
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 2609, CP: 2610, Estado: BLOQUEADO, NES: 28, N_CPU: 28
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 2217, CP: 2218, Estado: BLOQUEADO, NES: 28, N_CPU: 28
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 2501, CP: 2502, Estado: BLOQUEADO, NES: 28, N_CPU: 28
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 2822, CP: 2823, Estado: BLOQUEADO, NES: 28, N_CPU: 28
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 3210, CP: 3211, Estado: BLOQUEADO, NES: 29, N_CPU: 29
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 2832, CP: 2833, Estado: BLOQUEADO, NES: 29, N_CPU: 29
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 2718, CP: 2719, Estado: BLOQUEADO, NES: 29, N_CPU: 29
+
+Processo 4 mudou para estado BLOQUEADO:
+PID: 4, TP: 2964, CP: 2965, Estado: BLOQUEADO, NES: 29, N_CPU: 29
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 2750, CP: 2751, Estado: BLOQUEADO, NES: 29, N_CPU: 29
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 2388, CP: 2389, Estado: BLOQUEADO, NES: 29, N_CPU: 29
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 2605, CP: 2606, Estado: BLOQUEADO, NES: 29, N_CPU: 29
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 2944, CP: 2945, Estado: BLOQUEADO, NES: 29, N_CPU: 29
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 3386, CP: 3387, Estado: BLOQUEADO, NES: 30, N_CPU: 30
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 2962, CP: 2963, Estado: BLOQUEADO, NES: 30, N_CPU: 30
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 2737, CP: 2738, Estado: BLOQUEADO, NES: 30, N_CPU: 30
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 2934, CP: 2935, Estado: BLOQUEADO, NES: 30, N_CPU: 30
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 2681, CP: 2682, Estado: BLOQUEADO, NES: 30, N_CPU: 30
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 2711, CP: 2712, Estado: BLOQUEADO, NES: 30, N_CPU: 30
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 3026, CP: 3027, Estado: BLOQUEADO, NES: 30, N_CPU: 30
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 3465, CP: 3466, Estado: BLOQUEADO, NES: 31, N_CPU: 31
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 3109, CP: 3110, Estado: BLOQUEADO, NES: 31, N_CPU: 31
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 2796, CP: 2797, Estado: BLOQUEADO, NES: 31, N_CPU: 31
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 2943, CP: 2944, Estado: BLOQUEADO, NES: 31, N_CPU: 31
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 3051, CP: 3052, Estado: BLOQUEADO, NES: 31, N_CPU: 31
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 2736, CP: 2737, Estado: BLOQUEADO, NES: 31, N_CPU: 31
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 3031, CP: 3032, Estado: BLOQUEADO, NES: 31, N_CPU: 31
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 3666, CP: 3667, Estado: BLOQUEADO, NES: 32, N_CPU: 32
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 3194, CP: 3195, Estado: BLOQUEADO, NES: 32, N_CPU: 32
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 2906, CP: 2907, Estado: BLOQUEADO, NES: 32, N_CPU: 32
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 3032, CP: 3033, Estado: BLOQUEADO, NES: 32, N_CPU: 32
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 3131, CP: 3132, Estado: BLOQUEADO, NES: 32, N_CPU: 32
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 2818, CP: 2819, Estado: BLOQUEADO, NES: 32, N_CPU: 32
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 3112, CP: 3113, Estado: BLOQUEADO, NES: 32, N_CPU: 32
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 3803, CP: 3804, Estado: BLOQUEADO, NES: 33, N_CPU: 33
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 3215, CP: 3216, Estado: BLOQUEADO, NES: 33, N_CPU: 33
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 2946, CP: 2947, Estado: BLOQUEADO, NES: 33, N_CPU: 33
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 3106, CP: 3107, Estado: BLOQUEADO, NES: 33, N_CPU: 33
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 3225, CP: 3226, Estado: BLOQUEADO, NES: 33, N_CPU: 33
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 2837, CP: 2838, Estado: BLOQUEADO, NES: 33, N_CPU: 33
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 3125, CP: 3126, Estado: BLOQUEADO, NES: 33, N_CPU: 33
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 3823, CP: 3824, Estado: BLOQUEADO, NES: 34, N_CPU: 34
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 3343, CP: 3344, Estado: BLOQUEADO, NES: 34, N_CPU: 34
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 2983, CP: 2984, Estado: BLOQUEADO, NES: 34, N_CPU: 34
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 3340, CP: 3341, Estado: BLOQUEADO, NES: 34, N_CPU: 34
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 3394, CP: 3395, Estado: BLOQUEADO, NES: 34, N_CPU: 34
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 2879, CP: 2880, Estado: BLOQUEADO, NES: 34, N_CPU: 34
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 3126, CP: 3127, Estado: BLOQUEADO, NES: 34, N_CPU: 34
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 3911, CP: 3912, Estado: BLOQUEADO, NES: 35, N_CPU: 35
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 3395, CP: 3396, Estado: BLOQUEADO, NES: 35, N_CPU: 35
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 3109, CP: 3110, Estado: BLOQUEADO, NES: 35, N_CPU: 35
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 3486, CP: 3487, Estado: BLOQUEADO, NES: 35, N_CPU: 35
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 3533, CP: 3534, Estado: BLOQUEADO, NES: 35, N_CPU: 35
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 3008, CP: 3009, Estado: BLOQUEADO, NES: 35, N_CPU: 35
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 3141, CP: 3142, Estado: BLOQUEADO, NES: 35, N_CPU: 35
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 3946, CP: 3947, Estado: BLOQUEADO, NES: 36, N_CPU: 36
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 3422, CP: 3423, Estado: BLOQUEADO, NES: 36, N_CPU: 36
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 3116, CP: 3117, Estado: BLOQUEADO, NES: 36, N_CPU: 36
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 3525, CP: 3526, Estado: BLOQUEADO, NES: 36, N_CPU: 36
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 3677, CP: 3678, Estado: BLOQUEADO, NES: 36, N_CPU: 36
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 3190, CP: 3191, Estado: BLOQUEADO, NES: 36, N_CPU: 36
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 3198, CP: 3199, Estado: BLOQUEADO, NES: 36, N_CPU: 36
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 3966, CP: 3967, Estado: BLOQUEADO, NES: 37, N_CPU: 37
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 3501, CP: 3502, Estado: BLOQUEADO, NES: 37, N_CPU: 37
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 3131, CP: 3132, Estado: BLOQUEADO, NES: 37, N_CPU: 37
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 3675, CP: 3676, Estado: BLOQUEADO, NES: 37, N_CPU: 37
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 3735, CP: 3736, Estado: BLOQUEADO, NES: 37, N_CPU: 37
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 3434, CP: 3435, Estado: BLOQUEADO, NES: 37, N_CPU: 37
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 3214, CP: 3215, Estado: BLOQUEADO, NES: 37, N_CPU: 37
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 4034, CP: 4035, Estado: BLOQUEADO, NES: 38, N_CPU: 38
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 3639, CP: 3640, Estado: BLOQUEADO, NES: 38, N_CPU: 38
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 3156, CP: 3157, Estado: BLOQUEADO, NES: 38, N_CPU: 38
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 3827, CP: 3828, Estado: BLOQUEADO, NES: 38, N_CPU: 38
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 3777, CP: 3778, Estado: BLOQUEADO, NES: 38, N_CPU: 38
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 3531, CP: 3532, Estado: BLOQUEADO, NES: 38, N_CPU: 38
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 3268, CP: 3269, Estado: BLOQUEADO, NES: 38, N_CPU: 38
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 4137, CP: 4138, Estado: BLOQUEADO, NES: 39, N_CPU: 39
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 3695, CP: 3696, Estado: BLOQUEADO, NES: 39, N_CPU: 39
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 3388, CP: 3389, Estado: BLOQUEADO, NES: 39, N_CPU: 39
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 3961, CP: 3962, Estado: BLOQUEADO, NES: 39, N_CPU: 39
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 3874, CP: 3875, Estado: BLOQUEADO, NES: 39, N_CPU: 39
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 3647, CP: 3648, Estado: BLOQUEADO, NES: 39, N_CPU: 39
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 3336, CP: 3337, Estado: BLOQUEADO, NES: 39, N_CPU: 39
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 4280, CP: 4281, Estado: BLOQUEADO, NES: 40, N_CPU: 40
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 3797, CP: 3798, Estado: BLOQUEADO, NES: 40, N_CPU: 40
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 3554, CP: 3555, Estado: BLOQUEADO, NES: 40, N_CPU: 40
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 4024, CP: 4025, Estado: BLOQUEADO, NES: 40, N_CPU: 40
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 4020, CP: 4021, Estado: BLOQUEADO, NES: 40, N_CPU: 40
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 3668, CP: 3669, Estado: BLOQUEADO, NES: 40, N_CPU: 40
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 3648, CP: 3649, Estado: BLOQUEADO, NES: 40, N_CPU: 40
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 4458, CP: 4459, Estado: BLOQUEADO, NES: 41, N_CPU: 41
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 3877, CP: 3878, Estado: BLOQUEADO, NES: 41, N_CPU: 41
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 3610, CP: 3611, Estado: BLOQUEADO, NES: 41, N_CPU: 41
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 4031, CP: 4032, Estado: BLOQUEADO, NES: 41, N_CPU: 41
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 4114, CP: 4115, Estado: BLOQUEADO, NES: 41, N_CPU: 41
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 3743, CP: 3744, Estado: BLOQUEADO, NES: 41, N_CPU: 41
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 3701, CP: 3702, Estado: BLOQUEADO, NES: 41, N_CPU: 41
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 4656, CP: 4657, Estado: BLOQUEADO, NES: 42, N_CPU: 42
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 4129, CP: 4130, Estado: BLOQUEADO, NES: 42, N_CPU: 42
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 3615, CP: 3616, Estado: BLOQUEADO, NES: 42, N_CPU: 42
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 4053, CP: 4054, Estado: BLOQUEADO, NES: 42, N_CPU: 42
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 4291, CP: 4292, Estado: BLOQUEADO, NES: 42, N_CPU: 42
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 3920, CP: 3921, Estado: BLOQUEADO, NES: 42, N_CPU: 42
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 3719, CP: 3720, Estado: BLOQUEADO, NES: 42, N_CPU: 42
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 4756, CP: 4757, Estado: BLOQUEADO, NES: 43, N_CPU: 43
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 4813, CP: 4814, Estado: BLOQUEADO, NES: 43, N_CPU: 43
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 3626, CP: 3627, Estado: BLOQUEADO, NES: 43, N_CPU: 43
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 4131, CP: 4132, Estado: BLOQUEADO, NES: 43, N_CPU: 43
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 4299, CP: 4300, Estado: BLOQUEADO, NES: 43, N_CPU: 43
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 3976, CP: 3977, Estado: BLOQUEADO, NES: 43, N_CPU: 43
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 3847, CP: 3848, Estado: BLOQUEADO, NES: 43, N_CPU: 43
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 4885, CP: 4886, Estado: BLOQUEADO, NES: 44, N_CPU: 44
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 4845, CP: 4846, Estado: BLOQUEADO, NES: 44, N_CPU: 44
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 3803, CP: 3804, Estado: BLOQUEADO, NES: 44, N_CPU: 44
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 4194, CP: 4195, Estado: BLOQUEADO, NES: 44, N_CPU: 44
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 4387, CP: 4388, Estado: BLOQUEADO, NES: 44, N_CPU: 44
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 3990, CP: 3991, Estado: BLOQUEADO, NES: 44, N_CPU: 44
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 3862, CP: 3863, Estado: BLOQUEADO, NES: 44, N_CPU: 44
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 4950, CP: 4951, Estado: BLOQUEADO, NES: 45, N_CPU: 45
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 4938, CP: 4939, Estado: BLOQUEADO, NES: 45, N_CPU: 45
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 3804, CP: 3805, Estado: BLOQUEADO, NES: 45, N_CPU: 45
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 4400, CP: 4401, Estado: BLOQUEADO, NES: 45, N_CPU: 45
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 4624, CP: 4625, Estado: BLOQUEADO, NES: 45, N_CPU: 45
+
+Processo 8 mudou para estado BLOQUEADO:
+PID: 8, TP: 3998, CP: 3999, Estado: BLOQUEADO, NES: 45, N_CPU: 45
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 3863, CP: 3864, Estado: BLOQUEADO, NES: 45, N_CPU: 45
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 5220, CP: 5221, Estado: BLOQUEADO, NES: 46, N_CPU: 46
+
+Processo 1 mudou para estado BLOQUEADO:
+PID: 1, TP: 4958, CP: 4959, Estado: BLOQUEADO, NES: 46, N_CPU: 46
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 3805, CP: 3806, Estado: BLOQUEADO, NES: 46, N_CPU: 46
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 4512, CP: 4513, Estado: BLOQUEADO, NES: 46, N_CPU: 46
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 4771, CP: 4772, Estado: BLOQUEADO, NES: 46, N_CPU: 46
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 3867, CP: 3868, Estado: BLOQUEADO, NES: 46, N_CPU: 46
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 5229, CP: 5230, Estado: BLOQUEADO, NES: 47, N_CPU: 47
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 3813, CP: 3814, Estado: BLOQUEADO, NES: 47, N_CPU: 47
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 4954, CP: 4955, Estado: BLOQUEADO, NES: 47, N_CPU: 47
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 4897, CP: 4898, Estado: BLOQUEADO, NES: 47, N_CPU: 47
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 4077, CP: 4078, Estado: BLOQUEADO, NES: 47, N_CPU: 47
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 5279, CP: 5280, Estado: BLOQUEADO, NES: 48, N_CPU: 48
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 3834, CP: 3835, Estado: BLOQUEADO, NES: 48, N_CPU: 48
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 5071, CP: 5072, Estado: BLOQUEADO, NES: 48, N_CPU: 48
+
+Processo 7 mudou para estado BLOQUEADO:
+PID: 7, TP: 4950, CP: 4951, Estado: BLOQUEADO, NES: 48, N_CPU: 48
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 4166, CP: 4167, Estado: BLOQUEADO, NES: 48, N_CPU: 48
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 5339, CP: 5340, Estado: BLOQUEADO, NES: 49, N_CPU: 49
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 3882, CP: 3883, Estado: BLOQUEADO, NES: 49, N_CPU: 49
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 5205, CP: 5206, Estado: BLOQUEADO, NES: 49, N_CPU: 49
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 4216, CP: 4217, Estado: BLOQUEADO, NES: 49, N_CPU: 49
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 5361, CP: 5362, Estado: BLOQUEADO, NES: 50, N_CPU: 50
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 3943, CP: 3944, Estado: BLOQUEADO, NES: 50, N_CPU: 50
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 5306, CP: 5307, Estado: BLOQUEADO, NES: 50, N_CPU: 50
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 4257, CP: 4258, Estado: BLOQUEADO, NES: 50, N_CPU: 50
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 5373, CP: 5374, Estado: BLOQUEADO, NES: 51, N_CPU: 51
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 4047, CP: 4048, Estado: BLOQUEADO, NES: 51, N_CPU: 51
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 5341, CP: 5342, Estado: BLOQUEADO, NES: 51, N_CPU: 51
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 4301, CP: 4302, Estado: BLOQUEADO, NES: 51, N_CPU: 51
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 5415, CP: 5416, Estado: BLOQUEADO, NES: 52, N_CPU: 52
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 4055, CP: 4056, Estado: BLOQUEADO, NES: 52, N_CPU: 52
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 5513, CP: 5514, Estado: BLOQUEADO, NES: 52, N_CPU: 52
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 4470, CP: 4471, Estado: BLOQUEADO, NES: 52, N_CPU: 52
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 5456, CP: 5457, Estado: BLOQUEADO, NES: 53, N_CPU: 53
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 4183, CP: 4184, Estado: BLOQUEADO, NES: 53, N_CPU: 53
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 5741, CP: 5742, Estado: BLOQUEADO, NES: 53, N_CPU: 53
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 4614, CP: 4615, Estado: BLOQUEADO, NES: 53, N_CPU: 53
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 5513, CP: 5514, Estado: BLOQUEADO, NES: 54, N_CPU: 54
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 4247, CP: 4248, Estado: BLOQUEADO, NES: 54, N_CPU: 54
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 5834, CP: 5835, Estado: BLOQUEADO, NES: 54, N_CPU: 54
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 4619, CP: 4620, Estado: BLOQUEADO, NES: 54, N_CPU: 54
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 5580, CP: 5581, Estado: BLOQUEADO, NES: 55, N_CPU: 55
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 4274, CP: 4275, Estado: BLOQUEADO, NES: 55, N_CPU: 55
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 5972, CP: 5973, Estado: BLOQUEADO, NES: 55, N_CPU: 55
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 4698, CP: 4699, Estado: BLOQUEADO, NES: 55, N_CPU: 55
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 5612, CP: 5613, Estado: BLOQUEADO, NES: 56, N_CPU: 56
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 4297, CP: 4298, Estado: BLOQUEADO, NES: 56, N_CPU: 56
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 6075, CP: 6076, Estado: BLOQUEADO, NES: 56, N_CPU: 56
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 4933, CP: 4934, Estado: BLOQUEADO, NES: 56, N_CPU: 56
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 5744, CP: 5745, Estado: BLOQUEADO, NES: 57, N_CPU: 57
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 4399, CP: 4400, Estado: BLOQUEADO, NES: 57, N_CPU: 57
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 6084, CP: 6085, Estado: BLOQUEADO, NES: 57, N_CPU: 57
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 5093, CP: 5094, Estado: BLOQUEADO, NES: 57, N_CPU: 57
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 5801, CP: 5802, Estado: BLOQUEADO, NES: 58, N_CPU: 58
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 4559, CP: 4560, Estado: BLOQUEADO, NES: 58, N_CPU: 58
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 6212, CP: 6213, Estado: BLOQUEADO, NES: 58, N_CPU: 58
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 5338, CP: 5339, Estado: BLOQUEADO, NES: 58, N_CPU: 58
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 5839, CP: 5840, Estado: BLOQUEADO, NES: 59, N_CPU: 59
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 4949, CP: 4950, Estado: BLOQUEADO, NES: 59, N_CPU: 59
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 6212, CP: 6213, Estado: BLOQUEADO, NES: 59, N_CPU: 59
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 5341, CP: 5342, Estado: BLOQUEADO, NES: 59, N_CPU: 59
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 5864, CP: 5865, Estado: BLOQUEADO, NES: 60, N_CPU: 60
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 4977, CP: 4978, Estado: BLOQUEADO, NES: 60, N_CPU: 60
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 6445, CP: 6446, Estado: BLOQUEADO, NES: 60, N_CPU: 60
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 5369, CP: 5370, Estado: BLOQUEADO, NES: 60, N_CPU: 60
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 5948, CP: 5949, Estado: BLOQUEADO, NES: 61, N_CPU: 61
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 5035, CP: 5036, Estado: BLOQUEADO, NES: 61, N_CPU: 61
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 6459, CP: 6460, Estado: BLOQUEADO, NES: 61, N_CPU: 61
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 5370, CP: 5371, Estado: BLOQUEADO, NES: 61, N_CPU: 61
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 6154, CP: 6155, Estado: BLOQUEADO, NES: 62, N_CPU: 62
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 5059, CP: 5060, Estado: BLOQUEADO, NES: 62, N_CPU: 62
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 6490, CP: 6491, Estado: BLOQUEADO, NES: 62, N_CPU: 62
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 5643, CP: 5644, Estado: BLOQUEADO, NES: 62, N_CPU: 62
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 6169, CP: 6170, Estado: BLOQUEADO, NES: 63, N_CPU: 63
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 5076, CP: 5077, Estado: BLOQUEADO, NES: 63, N_CPU: 63
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 6625, CP: 6626, Estado: BLOQUEADO, NES: 63, N_CPU: 63
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 5707, CP: 5708, Estado: BLOQUEADO, NES: 63, N_CPU: 63
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 6277, CP: 6278, Estado: BLOQUEADO, NES: 64, N_CPU: 64
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 5259, CP: 5260, Estado: BLOQUEADO, NES: 64, N_CPU: 64
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 6640, CP: 6641, Estado: BLOQUEADO, NES: 64, N_CPU: 64
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 5767, CP: 5768, Estado: BLOQUEADO, NES: 64, N_CPU: 64
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 6420, CP: 6421, Estado: BLOQUEADO, NES: 65, N_CPU: 65
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 5421, CP: 5422, Estado: BLOQUEADO, NES: 65, N_CPU: 65
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 6679, CP: 6680, Estado: BLOQUEADO, NES: 65, N_CPU: 65
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 5860, CP: 5861, Estado: BLOQUEADO, NES: 65, N_CPU: 65
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 6425, CP: 6426, Estado: BLOQUEADO, NES: 66, N_CPU: 66
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 5579, CP: 5580, Estado: BLOQUEADO, NES: 66, N_CPU: 66
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 6805, CP: 6806, Estado: BLOQUEADO, NES: 66, N_CPU: 66
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 6065, CP: 6066, Estado: BLOQUEADO, NES: 66, N_CPU: 66
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 6549, CP: 6550, Estado: BLOQUEADO, NES: 67, N_CPU: 67
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 5890, CP: 5891, Estado: BLOQUEADO, NES: 67, N_CPU: 67
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 6828, CP: 6829, Estado: BLOQUEADO, NES: 67, N_CPU: 67
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 6594, CP: 6595, Estado: BLOQUEADO, NES: 67, N_CPU: 67
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 6816, CP: 6817, Estado: BLOQUEADO, NES: 68, N_CPU: 68
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 6064, CP: 6065, Estado: BLOQUEADO, NES: 68, N_CPU: 68
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 6853, CP: 6854, Estado: BLOQUEADO, NES: 68, N_CPU: 68
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 6656, CP: 6657, Estado: BLOQUEADO, NES: 68, N_CPU: 68
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 6946, CP: 6947, Estado: BLOQUEADO, NES: 69, N_CPU: 69
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 6199, CP: 6200, Estado: BLOQUEADO, NES: 69, N_CPU: 69
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 6873, CP: 6874, Estado: BLOQUEADO, NES: 69, N_CPU: 69
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 6682, CP: 6683, Estado: BLOQUEADO, NES: 69, N_CPU: 69
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 7015, CP: 7016, Estado: BLOQUEADO, NES: 70, N_CPU: 70
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 6512, CP: 6513, Estado: BLOQUEADO, NES: 70, N_CPU: 70
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 7028, CP: 7029, Estado: BLOQUEADO, NES: 70, N_CPU: 70
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 6868, CP: 6869, Estado: BLOQUEADO, NES: 70, N_CPU: 70
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 7183, CP: 7184, Estado: BLOQUEADO, NES: 71, N_CPU: 71
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 6609, CP: 6610, Estado: BLOQUEADO, NES: 71, N_CPU: 71
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 7101, CP: 7102, Estado: BLOQUEADO, NES: 71, N_CPU: 71
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 6909, CP: 6910, Estado: BLOQUEADO, NES: 71, N_CPU: 71
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 7186, CP: 7187, Estado: BLOQUEADO, NES: 72, N_CPU: 72
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 6613, CP: 6614, Estado: BLOQUEADO, NES: 72, N_CPU: 72
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 7109, CP: 7110, Estado: BLOQUEADO, NES: 72, N_CPU: 72
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 7128, CP: 7129, Estado: BLOQUEADO, NES: 72, N_CPU: 72
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 7246, CP: 7247, Estado: BLOQUEADO, NES: 73, N_CPU: 73
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 6669, CP: 6670, Estado: BLOQUEADO, NES: 73, N_CPU: 73
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 7333, CP: 7334, Estado: BLOQUEADO, NES: 73, N_CPU: 73
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 7192, CP: 7193, Estado: BLOQUEADO, NES: 73, N_CPU: 73
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 7263, CP: 7264, Estado: BLOQUEADO, NES: 74, N_CPU: 74
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 6670, CP: 6671, Estado: BLOQUEADO, NES: 74, N_CPU: 74
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 7340, CP: 7341, Estado: BLOQUEADO, NES: 74, N_CPU: 74
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 7242, CP: 7243, Estado: BLOQUEADO, NES: 74, N_CPU: 74
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 7422, CP: 7423, Estado: BLOQUEADO, NES: 75, N_CPU: 75
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 6759, CP: 6760, Estado: BLOQUEADO, NES: 75, N_CPU: 75
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 7383, CP: 7384, Estado: BLOQUEADO, NES: 75, N_CPU: 75
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 7646, CP: 7647, Estado: BLOQUEADO, NES: 75, N_CPU: 75
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 7438, CP: 7439, Estado: BLOQUEADO, NES: 76, N_CPU: 76
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 6805, CP: 6806, Estado: BLOQUEADO, NES: 76, N_CPU: 76
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 7475, CP: 7476, Estado: BLOQUEADO, NES: 76, N_CPU: 76
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 7821, CP: 7822, Estado: BLOQUEADO, NES: 76, N_CPU: 76
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 7474, CP: 7475, Estado: BLOQUEADO, NES: 77, N_CPU: 77
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 6859, CP: 6860, Estado: BLOQUEADO, NES: 77, N_CPU: 77
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 7560, CP: 7561, Estado: BLOQUEADO, NES: 77, N_CPU: 77
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 8104, CP: 8105, Estado: BLOQUEADO, NES: 77, N_CPU: 77
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 7634, CP: 7635, Estado: BLOQUEADO, NES: 78, N_CPU: 78
+
+Processo 2 mudou para estado BLOQUEADO:
+PID: 2, TP: 6866, CP: 6867, Estado: BLOQUEADO, NES: 78, N_CPU: 78
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 7672, CP: 7673, Estado: BLOQUEADO, NES: 78, N_CPU: 78
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 8454, CP: 8455, Estado: BLOQUEADO, NES: 78, N_CPU: 78
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 7640, CP: 7641, Estado: BLOQUEADO, NES: 79, N_CPU: 79
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 7772, CP: 7773, Estado: BLOQUEADO, NES: 79, N_CPU: 79
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 8564, CP: 8565, Estado: BLOQUEADO, NES: 79, N_CPU: 79
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 7730, CP: 7731, Estado: BLOQUEADO, NES: 80, N_CPU: 80
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 7772, CP: 7773, Estado: BLOQUEADO, NES: 80, N_CPU: 80
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 8673, CP: 8674, Estado: BLOQUEADO, NES: 80, N_CPU: 80
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 7946, CP: 7947, Estado: BLOQUEADO, NES: 81, N_CPU: 81
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 7870, CP: 7871, Estado: BLOQUEADO, NES: 81, N_CPU: 81
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 8742, CP: 8743, Estado: BLOQUEADO, NES: 81, N_CPU: 81
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 8013, CP: 8014, Estado: BLOQUEADO, NES: 82, N_CPU: 82
+
+Processo 5 mudou para estado BLOQUEADO:
+PID: 5, TP: 7953, CP: 7954, Estado: BLOQUEADO, NES: 82, N_CPU: 82
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 9165, CP: 9166, Estado: BLOQUEADO, NES: 82, N_CPU: 82
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 8068, CP: 8069, Estado: BLOQUEADO, NES: 83, N_CPU: 83
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 9577, CP: 9578, Estado: BLOQUEADO, NES: 83, N_CPU: 83
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 8270, CP: 8271, Estado: BLOQUEADO, NES: 84, N_CPU: 84
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 9660, CP: 9661, Estado: BLOQUEADO, NES: 84, N_CPU: 84
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 8289, CP: 8290, Estado: BLOQUEADO, NES: 85, N_CPU: 85
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 9880, CP: 9881, Estado: BLOQUEADO, NES: 85, N_CPU: 85
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 8291, CP: 8292, Estado: BLOQUEADO, NES: 86, N_CPU: 86
+
+Processo 9 mudou para estado BLOQUEADO:
+PID: 9, TP: 9944, CP: 9945, Estado: BLOQUEADO, NES: 86, N_CPU: 86
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 8337, CP: 8338, Estado: BLOQUEADO, NES: 87, N_CPU: 87
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 8425, CP: 8426, Estado: BLOQUEADO, NES: 88, N_CPU: 88
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 8526, CP: 8527, Estado: BLOQUEADO, NES: 89, N_CPU: 89
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 8552, CP: 8553, Estado: BLOQUEADO, NES: 90, N_CPU: 90
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 8599, CP: 8600, Estado: BLOQUEADO, NES: 91, N_CPU: 91
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 8896, CP: 8897, Estado: BLOQUEADO, NES: 92, N_CPU: 92
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 9013, CP: 9014, Estado: BLOQUEADO, NES: 93, N_CPU: 93
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 9157, CP: 9158, Estado: BLOQUEADO, NES: 94, N_CPU: 94
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 9401, CP: 9402, Estado: BLOQUEADO, NES: 95, N_CPU: 95
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 9657, CP: 9658, Estado: BLOQUEADO, NES: 96, N_CPU: 96
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 9671, CP: 9672, Estado: BLOQUEADO, NES: 97, N_CPU: 97
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 9821, CP: 9822, Estado: BLOQUEADO, NES: 98, N_CPU: 98
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 9906, CP: 9907, Estado: BLOQUEADO, NES: 99, N_CPU: 99
+
+Processo 0 mudou para estado BLOQUEADO:
+PID: 0, TP: 9925, CP: 9926, Estado: BLOQUEADO, NES: 100, N_CPU: 100
+
