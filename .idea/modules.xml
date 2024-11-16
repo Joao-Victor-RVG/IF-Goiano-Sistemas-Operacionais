@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Atividade 02/Atividade 02.iml" filepath="$PROJECT_DIR$/Atividade 02/Atividade 02.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IF-Goiano-Sistemas-Operacionais.iml" filepath="$PROJECT_DIR$/.idea/IF-Goiano-Sistemas-Operacionais.iml" />
     </modules>
   </component>
