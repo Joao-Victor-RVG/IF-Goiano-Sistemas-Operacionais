@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Atividade 02/Atividade 02.iml" filepath="$PROJECT_DIR$/Atividade 02/Atividade 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade 04 Jantar/Atividade 04 Jantar.iml" filepath="$PROJECT_DIR$/Atividade 04 Jantar/Atividade 04 Jantar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade 05/Atividade 05.iml" filepath="$PROJECT_DIR$/Atividade 05/Atividade 05.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IF-Goiano-Sistemas-Operacionais.iml" filepath="$PROJECT_DIR$/.idea/IF-Goiano-Sistemas-Operacionais.iml" />
     </modules>
   </component>
